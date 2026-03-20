@@ -3,7 +3,8 @@
 Automated downtime data pipeline using Power Automate, SharePoint Lists, and Excel to feed Fabriq dashboards for operational performance tracking.
 
 ---
-<img width="1669" height="922" alt="Image" src="https://github.com/user-attachments/assets/b2ffc152-902a-4013-be12-0934f9bd75ee" />
+### Downtime Visualization
+![Downtime Chart](https://github.com/user-attachments/assets/b2ffc152-902a-4013-be12-0934f9bd75ee)
 
 ## Overview
 
